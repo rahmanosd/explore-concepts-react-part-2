@@ -7,3 +7,4 @@ export default function Friend({friend}){
         </div>
     )
 }
+
